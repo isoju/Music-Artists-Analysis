@@ -1,6 +1,4 @@
-# Project 2: ETL
-
-## Billboard, Grammy, Artists
+# Billboard, Grammy, Artists Analysis
 ### Extract: 
 
 We used 3 different datasets limited to the years 1999-2019 from the public platform [Kaggle](https://www.kaggle.com/danield2255/data-on-songs-from-billboard-19992019/version/1) conducted by Daniel DeFoe. The raw data can be found in [Resources](https://github.com/FrankJiang1208/project_2/tree/main/Resources).
